@@ -1,0 +1,1 @@
+INSERT INTO Department (department) VALUES ('IT');
